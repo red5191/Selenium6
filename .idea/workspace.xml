@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13219d82-6138-41a9-b876-7c28ac3a20a1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Selenium1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Selenium1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.venv/selenium_python_chrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/selenium_python_chrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/selenium_python_opera.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/selenium_python_opera.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/red5191/Selenium1.git&quot;,
-    &quot;accountId&quot;: &quot;dbc7a7a1-9747-411e-8a76-9ee9ccb323c5&quot;
+    &quot;accountId&quot;: &quot;1e0a7b4d-bcff-4e44-b6ee-75436ab43f87&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -49,13 +50,19 @@
   "keyToString": {
     "Python.selenium_python.executor": "Run",
     "Python.selenium_python_chrome.executor": "Run",
+    "Python.selenium_python_edge.executor": "Run",
+    "Python.selenium_python_firefox.executor": "Run",
     "Python.selenium_python_opera.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/the_r/PycharmProjects/Selenium1/.venv"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\the_r\PycharmProjects\Selenium1\.venv" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\the_r\PycharmProjects\Selenium1\.venv" />
     </key>
@@ -63,7 +70,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
