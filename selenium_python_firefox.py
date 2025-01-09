@@ -14,8 +14,11 @@ base_url = 'https://www.saucedemo.com/'
 driver.get(base_url)
 driver.maximize_window()
 
-user_name = driver.find_element(By.ID, "user-name")
+user_name = driver.find_element(By.NAME, "user-name")
 user_name.send_keys('standard_user')
 
-password = driver.find_element(By.ID, "password")
+password = driver.find_element(By.XPATH, "/html/body/div/div/div[2]/div[1]/div/div/form/div[2]/input")
 password.send_keys("secret_sauce")
+
+login_button = driver.find_element(By.ID, 'login-button')
+login_button.click()
